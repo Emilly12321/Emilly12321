@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, World!  
 
-<!--
-**Emilly12321/Emilly12321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Emilly**,you can call me *Luz* and here's a little about me:  
 
-Here are some ideas to get you started:
+### 🎓 About Me  
+- 💻 **Current Studies:**  
+  - Technologist in **Systems Analysis and Development** at **Unisenai Joinville**.  
+- 🎓 **Previous Education:**  
+  - Graduated as a **Technician in Internet Informatics** at **Senac Joinville**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 My Motto  
+*"No knowledge is unnecessary, no matter how useless it may seem."*  
+
+---
+
+### 📈 GitHub Stats  
+![Emilly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emilly12321&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emilly12321&layout=compact&theme=radical)  
