@@ -15,6 +15,8 @@ I'm **Emilly**,you can call me *Luz* and here's a little about me:
 
 ### 📈 GitHub Stats 
 <div> 
-<img higth="180cm " ![Emilly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emilly12321&show_icons=true&theme=radical)/> 
-<img higth="180cm " ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emilly12321&layout=compact&theme=radical)/>  
+  <a href="https://github.com/emilly12321"></a>
+<img higth="180cm " ![Emilly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emilly12321&show_icons=true&theme=dracula)/> 
+  
+<img higth="180cm " ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emilly12321&layout=compact&theme=dracula)/>  
 </div>
