@@ -15,4 +15,4 @@ I'm **Emilly**,you can call me *Luz* and here's a little about me:
 
 ### 📈 GitHub Stats 
 
-![Emilly's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilly12321&show_icons=true&layout=compact&theme=dracula) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emilly12321&layout=big&theme=dracula)  
+![Emilly's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilly12321&show_icons=true&layout=compact&theme=dracula) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emilly12321&theme=dracula)  
