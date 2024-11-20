@@ -1,4 +1,4 @@
-# 👋 Hello, World!  
+# 👋 Hi! 😎
 
 I'm **Emilly**,you can call me *Luz* and here's a little about me:  
 
