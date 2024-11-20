@@ -2,9 +2,7 @@
 
 I'm **Emilly**,you can call me *Luz* and here's a little about me:  
 
-### 🎓 About Me  
-- 💻 **Current Studies:**  
-  - Technologist in **Systems Analysis and Development** at **Unisenai Joinville**.  
+### 🎓 About Me    
 - 🎓 **Previous Education:**  
   - Graduated as a **Technician in Internet Informatics** at **Senac Joinville**.  
 
